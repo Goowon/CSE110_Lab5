@@ -148,6 +148,24 @@
               <item name="CSE110_Lab5" type="b2602c69:ProjectViewProjectNode" />
               <item name="CSE110_Lab5" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="CSE110_Lab5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CSE110_Lab5" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CSE110_Lab5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CSE110_Lab5" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ucsd" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CSE110_Lab5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CSE110_Lab5" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ucsd" type="462c0819:PsiDirectoryNode" />
+              <item name="cs110" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -188,7 +206,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.CelsiusTest">
+  <component name="RunManager" selected="JUnit.edu.ucsd.cs110.tests in CSE110_Lab5">
     <configuration name="TemperatureConverter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="edu.ucsd.cse110.temperature.TemperatureConverter" />
       <module name="CSE110_Lab5" />
@@ -232,8 +250,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="edu.ucsd.cs110.tests in CSE110_Lab5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CSE110_Lab5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.ucsd.cs110.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.ucsd.cs110.tests" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.edu.ucsd.cs110.tests in CSE110_Lab5" />
         <item itemvalue="JUnit.CelsiusTest" />
         <item itemvalue="JUnit.FahrenheitTest" />
         <item itemvalue="Application.TemperatureConverter" />
@@ -250,7 +283,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1556737401893</updated>
-      <workItem from="1556737411928" duration="3652000" />
+      <workItem from="1556737411928" duration="3728000" />
     </task>
     <servers />
   </component>
@@ -281,7 +314,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3652000" />
+    <option name="totallyTimeSpent" value="3728000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="9" y="43" width="1400" height="783" extended-state="0" />
@@ -291,7 +324,7 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2496318" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2496318" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
@@ -301,7 +334,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3299566" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3299566" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39942113" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
