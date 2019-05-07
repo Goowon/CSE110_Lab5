@@ -1,4 +1,2 @@
 language: java
-dist: xenial
-sudo: required
 jdk: oraclejdk8 oraclejdk11 openjdk10 openjdk11

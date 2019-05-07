@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e80301a9-6b83-431f-838f-e12ed02ad27f" name="Default Changelist" comment="" />
+    <list default="true" id="e80301a9-6b83-431f-838f-e12ed02ad27f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,7 +32,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/edu/ucsd/cs110/temperature/Fahrenheit.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
@@ -43,6 +45,15 @@
                 <element signature="e#339#340#0" expanded="true" />
                 <element signature="e#385#386#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.travis.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="14" selection-start-column="14" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -124,6 +135,7 @@
         <option value="$PROJECT_DIR$/src/edu/ucsd/cs110/tests/CelsiusTest.java" />
         <option value="$PROJECT_DIR$/src/edu/ucsd/cs110/temperature/Celsius.java" />
         <option value="$PROJECT_DIR$/src/edu/ucsd/cs110/temperature/Fahrenheit.java" />
+        <option value="$PROJECT_DIR$/.travis.yml" />
       </list>
     </option>
   </component>
@@ -283,7 +295,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1556737401893</updated>
-      <workItem from="1556737411928" duration="3728000" />
+      <workItem from="1556737411928" duration="3988000" />
     </task>
     <servers />
   </component>
@@ -312,12 +324,16 @@
     <history-entry file="CelsiusTest - 2019.05.06 at 19h 00m 54s.xml">
       <configuration name="CelsiusTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="edu_ucsd_cs110_tests_in_CSE110_Lab5 - 2019.05.06 at 21h 33m 18s.xml">
+      <configuration name="edu.ucsd.cs110.tests in CSE110_Lab5" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3728000" />
+    <option name="totallyTimeSpent" value="3988000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="9" y="43" width="1400" height="783" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
@@ -436,6 +452,13 @@
             <element signature="e#339#340#0" expanded="true" />
             <element signature="e#385#386#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.travis.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="14" selection-start-column="14" selection-end-column="14" />
         </state>
       </provider>
     </entry>
